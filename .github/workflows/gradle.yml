@@ -32,4 +32,4 @@ jobs:
     - name: Build with Gradle
       run: ./gradlew build
     - name: Clean Up Repo
-      run: ./gradew clean
+      run: ./gradlew clean
